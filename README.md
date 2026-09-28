@@ -1,4 +1,4 @@
-https://github.com/imohsinanwar/imohsinanwar/blob/main/github%20Banner..png
+![logo](https://github.com/imohsinanwar/imohsinanwar/blob/main/github%20Banner..png)
 
 # 💫 About Me:
 🔭 Currently developing an Ayurveda Medicine Quality Control system, combining Python, Machine Learning, and MySQL for data-driven quality assessment.<br>🤝 Looking to collaborate on real-world Data Science, Machine Learning, and Software Development projects, especially projects involving Python, SQL, and data-driven applications.<br>💡 Looking for help with Machine Learning, Data Science projects, Python development, and improving my software development skills.<br>🌱 Currently learning Machine Learning, Data Science, Python, SQL & Software Development.<br>💬 Ask me about Python, Data Science, Machine Learning, SQL, MySQL & Software Development.<br>⚡ I started with software development and now I'm exploring the world of Data Science and Machine Learning.
